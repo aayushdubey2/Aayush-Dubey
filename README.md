@@ -46,35 +46,20 @@ Total no of deaths in last 1 day: 5625<br>
 <img src="My_covid_analysis/plots/death_per_week.png" alt="deaths_week">
 
 <h3> GROWTH RATE </h3>
-<img src="My_covid_analysis/plots/growth_rate.png" alt="week">
+<img src="My_covid_analysis/plots/growth_rate.png" alt="growth">
 Avg growth factor of no of confirmed cases: 1.0638799794321891<br>
 Avg growth factor of no of recovered cases: 1.0787552278785428<br>
 Avg growth factor of no of death cases: 1.065448581312955<br>
 <h3> RECOVERY RATE </h3>
-<img src="My_covid_analysis/plots/recovery_rate.png" alt="week">
+<img src="My_covid_analysis/plots/recovery_rate.png" alt="recovery">
 <h3> MORTALITY RATE</h3>
-<img src="My_covid_analysis/plots/mortality_rate.png" alt="week">
+<img src="My_covid_analysis/plots/mortality_rate.png" alt="mortality">
 
 <h3> TOP 15 COUNTRIES IN TERMS OF CONFIRMED, RECOVERED AND DEATH CASES</h3>
-<img src="My_covid_analysis/plots/countrywise.png" alt="week">
+<img src="My_covid_analysis/plots/countrywise.png" alt="country">
 
 <h3>TIME TAKEN IN DOUBLING OF CASES</h3>
-    No. of cases Days since first Case Number of days for doubling<br>
-0            555                0 days                      0 days<br>
-1           1110                2 days                      2 days<br>
-2           2220                4 days                      2 days<br>
-3           4440                5 days                      1 days<br>
-4           8880                8 days                      3 days<br>
-5          17760               11 days                      3 days<br>
-6          35520               16 days                      5 days<br>
-7          71040               24 days                      8 days<br>
-8         142080               50 days                     26 days<br>
-9         284160               58 days                      8 days<br>
-10        568320               64 days                      6 days<br>
-11       1136640               72 days                      8 days<br>
-12       2273280               86 days                     14 days<br>
-13       4546560              114 days                     28 days<br>
-14       9093120              151 days                     37 days<br>
+<img src="My_covid_analysis/plots/doubling.PNG" alt="doubling">
 
 
 
